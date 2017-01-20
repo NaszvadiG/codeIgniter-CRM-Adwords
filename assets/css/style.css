@@ -1,0 +1,195 @@
+table.clients-table {
+    width: 100%;
+}
+.clients-table td{
+    border: 1px solid black;
+}
+.clients-table th{
+    border:1px solid black;
+}
+.clients-table{
+    border-radius: 8px;
+}
+a.logout {
+    float: right;
+    /* width: 30%; */
+    padding: 10px;
+}
+
+div#top-header {
+    float: left;
+    width: 100%;
+    /*margin-bottom: 20px;*/
+}
+.middle-content {
+    margin-top: 20px;
+}
+div#top-header {
+    background: rgba(0, 0, 0, 0.63);
+}
+
+a.logout {
+    color: white;
+    font-weight: 600;
+    border-left: 2px solid white;
+}
+.meniu  {
+    background: #29abe2;
+    color: white;
+    margin: 0!important;
+    padding:0!important;
+}
+.meniu li{
+    list-style: none;
+
+
+}
+.meniu li a{
+    border-bottom: 1px solid #2892bf;
+    border-top: 1px solid #2892bf;
+    width: 100%!important;
+    padding: 10px;
+    color:white;
+    font-weight: 600;
+
+}
+ul.meniu-class {
+    float: left;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+li.meniu-item {
+    width: 100%;
+    float: left;
+    display: block;
+}
+.meniu-item a {
+    float: left;
+}
+.top-clients-menu {
+    list-style: none;
+    margin-bottom: 10px;
+}
+ul.meniu-class {
+    padding: 0;
+}
+.meniu.col-md-3 {
+    border-right: 3px solid #5e5e5e;
+}
+.comment-table td {
+    width: 20%!important;
+    padding: 10px;
+    border: 1px solid black;
+}
+.comment-table .comment-description{
+    width: 60%;
+}
+.comment-table{
+    width: 100%;
+    float:left;
+}
+.client_info_form {
+    float: left;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #9E9E9E;
+    border-radius: 5px;
+}
+.client_info_form span{
+    width: 100%;
+    display: block;
+    font-size: 20px;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #9E9E9E;
+}
+textarea {width: 100%;border: 1px solid #9E9E9E;border-radius: 5px;padding: 10px;}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background: #29abe2;
+    border: 2px solid #29abe2;
+    color: white;
+    font-weight: 800;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+input[type="submit"]:hover {
+    background: white;
+    color: #29abe2;
+    border: 2px solid #29abe2;
+    transition: 0.5s;
+}
+li.menu-item {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+input[type="email"] {
+    width: 100%;
+    border: 1px solid #9E9E9E;
+    padding: 10px;
+    border-radius: 5px;
+}
+ul.task-list {
+    list-style: none;width: 100%;float: left;
+}
+.task-item{
+    border: 1px solid #9E9E9E;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.task-link{
+    width: 100%;
+}
+.col-md-6.col-xs-12.tasks {
+    border-right: 1px solid #9E9E9E;
+}
+.task-description {
+    border: 1px solid #9E9E9E;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.files{
+    border: 1px solid #9E9E9E;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.checklist{
+    border: 1px solid #9E9E9E;
+    border-radius: 5px;
+    padding: 10px;
+}
+label.checkbox-item {
+    font-size: 20px;
+}
+li.task-item {
+    margin-bottom: 20px;
+}
+a.file-link {margin-right: 10px;}
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #9E9E9E;
+    border-radius: 4px;
+}
+.pagespeed-info td {
+    border: 1px solid black;
+    padding: 10px;
+}
+.pagespeed-info{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.pagespeed-info th{
+    border: 1px solid black;
+}

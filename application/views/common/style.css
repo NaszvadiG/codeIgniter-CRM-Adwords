@@ -1,0 +1,12 @@
+table.clients-table {
+    width: 100%;
+}
+.clients-table td{
+    border: 1px solid black;
+}
+.clients-table th{
+    border:1px solid black;
+}
+.clients-table{
+    border-radius: 8px;
+}
